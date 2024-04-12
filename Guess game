@@ -1,0 +1,10 @@
+print("what's my favorite food?")
+
+food == "rice"
+
+if food == "rice":
+    print("yep! so amazing!")
+else:
+    print("yuck! that's not it!")
+
+print("thanks for playing!")
